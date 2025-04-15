@@ -25,3 +25,4 @@ jobs:
           path: ./artifacts
       - name: Display content of the text file
         run: cat ./artifacts/hello.txt
+#trigger
